@@ -1,0 +1,1 @@
+$ lsof | egrep "deleted|COMMAND"
