@@ -1,4 +1,4 @@
-# Clear DiskSpace In Style
+# Clear DiskSpace In Style!
 -Safe Not hacky ways to clear disk space.
 
 -NO AI CODE!
