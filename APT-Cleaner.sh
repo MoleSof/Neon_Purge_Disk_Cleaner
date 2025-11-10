@@ -21,9 +21,6 @@ $sudo apt check
 $sudo apt modernize-sources
 $sudo apt held
 #$sudo apt
-
-
-
 ####What the fuck is wrong with APT working oddly with $?
 sudo dpkg --configure -a
 $sudo apt install -f
