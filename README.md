@@ -11,4 +11,4 @@
   
   -Can Release Purged Files (Already Deleted Files)
   
-  -ToDo Add PacMan, Fix Deamon to loop at run at set times, Basic GUI FrontEnd, poll the 'The Radical Cleaner'.
+  -ToDo Add PacMan, Fix Deamon to loop at run at set times, Basic GUI FrontEnd, poll the 'The Radical Cleaner' deb patch for apt.
