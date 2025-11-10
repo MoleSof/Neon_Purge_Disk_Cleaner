@@ -3,6 +3,10 @@
 
 -NO AI CODE!
 
+-Tiny Size!
+
+-Very light on resocuse useage!
+
 #######
 
   -Can Clean Apt System
